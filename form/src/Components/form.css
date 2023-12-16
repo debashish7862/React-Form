@@ -1,0 +1,24 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 0.5rem;
+    background-color: rgb(167, 199, 227);
+}
+form{
+    padding: 2rem;
+    background-color: rgb(91, 91, 174);
+    color: rgb(236, 17, 236);
+    
+
+
+}
+label{
+    margin: 0.5rem;
+    
+}
+input{
+    padding: 0.2rem;
+}
